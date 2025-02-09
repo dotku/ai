@@ -2,7 +2,23 @@
 
 ## LLMs
 
-### DeepSeek
+### Open Sourced
+
+Here is a list of the top open-source large language models (LLMs) as of February 2025, based on their performance, versatility, and community adoption:
+
+---
+
+#### 1. **Llama 3.1 (Meta AI)**  
+- **Parameters**: 8B to 405B  
+- **Key Features**: Multilingual support, 128K token context window, strong reasoning and coding capabilities, and multimodal processing (text, audio, images, video) .  
+- **Use Cases**: General-purpose text generation, multilingual applications, code generation, and long-form content creation.  
+
+---
+
+#### 2. **DeepSeek-V3 (DeepSeek AI)**  
+- **Parameters**: 671B total (37B active)  
+- **Key Features**: Advanced reasoning and coding capabilities, multilingual support, and fine-tuning for specific tasks. It is optimized for efficiency and performance .  
+- **Use Cases**: General text generation, multilingual tasks, code generation, and advanced reasoning.
 
 Here is the release timeline and key information for major versions of DeepSeek:
 
@@ -27,6 +43,63 @@ Here is the release timeline and key information for major versions of DeepSeek:
    - **Features**: Focused on reasoning capabilities, improved performance in mathematical and coding tasks through reinforcement learning, and supported model distillation.
 
 For more detailed information, you can refer to relevant sources or visit DeepSeek's official website.
+
+---
+
+#### 3. **Falcon 180B (Technology Innovation Institute)**  
+- **Parameters**: 180B  
+- **Key Features**: Trained on 3.5 trillion tokens, excels in reasoning and coding tasks, and supports multilingual applications .  
+- **Use Cases**: General text generation, code generation, mathematical tasks, and scientific knowledge applications .  
+
+---
+
+#### 4. **BLOOM (BigScience)**  
+- **Parameters**: 176B  
+- **Key Features**: Multilingual support for 46 natural languages and 13 programming languages, with a focus on open access and transparency .  
+- **Use Cases**: Text summarization, translation, document classification, and creative content generation .  
+
+---
+
+#### 5. **Mixtral 8x22B (Mistral AI)**  
+- **Parameters**: 141B total (39B active)  
+- **Key Features**: Multilingual fluency (English, French, Italian, Spanish), high performance in math and programming tasks, and efficient resource usage .  
+- **Use Cases**: Programming tasks, multilingual text generation, and complex reasoning .  
+
+---
+
+#### 6. **Vicuna 13-B (LMSYS)**  
+- **Parameters**: 13B  
+- **Key Features**: Fine-tuned on user-shared conversations, excels in conversational AI, and provides human-like responses .  
+- **Use Cases**: Chatbots, customer support, and conversational AI applications .  
+
+---
+
+#### 7. **GPT-NeoX-20B (EleutherAI)**  
+- **Parameters**: 20B  
+- **Key Features**: Strong few-shot reasoning capabilities, open-source weights, and efficient inference .  
+- **Use Cases**: Content generation, question answering, and code understanding .  
+
+---
+
+#### 8. **StableLM 2 (Stability AI)**  
+- **Parameters**: 1.6B to 12B  
+- **Key Features**: Multilingual text generation, code understanding, and fine-tuning for specific tasks .  
+- **Use Cases**: Research, commercial applications, and multilingual content generation .  
+
+---
+
+#### 9. **Gemma 2 (Google)**  
+- **Parameters**: 2B to 27B  
+- **Key Features**: Optimized for efficient inference, responsible AI development, and strong performance for its size .  
+- **Use Cases**: General text generation, question answering, and summarization .  
+
+---
+
+#### 10. **Mistral-7B (Mistral AI)**  
+- **Parameters**: 7B  
+- **Key Features**: Compact yet powerful, energy-efficient, and strong ethical guidelines .  
+- **Use Cases**: Creative writing, coding assistance, and content generation .  
+
 
 ## Develoepr's Tool
 
