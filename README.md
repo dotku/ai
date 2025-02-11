@@ -103,7 +103,7 @@ For more detailed information, you can refer to relevant sources or visit DeepSe
 
 ## Develoepr's Tool
 
-* https://lightning.ai/, Model Training
+* https://lightning.ai/, Model Training, started from $3.39/hr
 
 ## Reference
 
