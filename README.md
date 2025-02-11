@@ -133,4 +133,18 @@ For more detailed information, you can refer to relevant sources or visit DeepSe
 
 ## Industry Samples
 
+* https://openai.com/, GenAI
+* https://www.deepseek.com/, GenAI
+* https://www.anthropic.com/, GenAI
+* https://www.meta.ai/, GenAI
+* https://x.ai/, GenAI
 * https://slate.ai/, Construction AI
+
+## Hire me
+
+Weijing Lin is a highly experienced up to staff level (L6). Within 10 years working experience, 
+he has led multiple projects across multiple functional teams and success delivered the products 
+to the market and help company grow including design, build the product from the scratch to 
+generated tens billions revenues.
+
+https://www.linkedin.com/in/weijingjaylin/
