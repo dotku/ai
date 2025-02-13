@@ -108,9 +108,9 @@ For more detailed information, you can refer to relevant sources or visit DeepSe
 | --- | --- | 
 | https://lightning.ai/, Model Training | $3.39/hr |
 | https://www.alibabacloud.com/en/product/ecs-pricing-list | $2.38/hr |
-| https://aws.amazon.com/ec2/instance-types/g5/ |  $1.006 |
-| https://azure.microsoft.com/en-us/pricing/details/machine-learning/ | $0.9 |
-| https://hpc-ai.com/ H100 | 1.99 |
+| https://aws.amazon.com/ec2/instance-types/g5/ |  $1.006/hr |
+| https://azure.microsoft.com/en-us/pricing/details/machine-learning/ | $0.9/hr |
+| https://hpc-ai.com/ H100 | $1.99/hr |
 | https://www.digitalocean.com/pricing/gen-ai (Llama) | $0.68/mtokens |
 
 ### AI Training Tools
