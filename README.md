@@ -104,12 +104,14 @@ For more detailed information, you can refer to relevant sources or visit DeepSe
 
 ### Cloud Service
 
-* https://lightning.ai/, Model Training, started from $3.39/hr
-* https://www.alibabacloud.com/en/product/ecs-pricing-list/, $2.38/hr
-* https://aws.amazon.com/ec2/instance-types/g5/, $1.006, $1/hr
-* https://azure.microsoft.com/en-us/pricing/details/machine-learning/, $0.9125/hr (monthly breakup)
-* https://hpc-ai.com/ $1.99/hr (H100)
-* https://www.digitalocean.com/pricing/gen-ai $0.68/mtokens (Llama)
+| Source | Started Price |
+| --- | --- | 
+| https://lightning.ai/, Model Training | $3.39/hr |
+| https://www.alibabacloud.com/en/product/ecs-pricing-list | $2.38/hr |
+| https://aws.amazon.com/ec2/instance-types/g5/ |  $1.006 |
+| https://azure.microsoft.com/en-us/pricing/details/machine-learning/ | $0.9 |
+| https://hpc-ai.com/ H100 | 1.99 |
+| https://www.digitalocean.com/pricing/gen-ai (Llama) | $0.68/mtokens |
 
 ### AI Training Tools
 
@@ -121,7 +123,6 @@ For more detailed information, you can refer to relevant sources or visit DeepSe
 * https://fortune.com/education/articles/free-ai-classes-you-can-take-online/
 * https://cloud.google.com/learn/training/machinelearning-ai
 * https://www.reddit.com/r/learnmachinelearning/comments/1czsras/what_are_the_best_free_online_ml_courses/
-* 
 
 ## Reference
 
