@@ -6,6 +6,6 @@
 
 - cuda@11.8
 - llama
-- ollama
+- ollama; for us region, could use vllm instead of ollama, vllm connection is not stable in China.
 - gcc@9
 - g++@9
