@@ -16,3 +16,7 @@ Qwen 0.5B is one of the smallest modal in the market maintain by one of the top 
 GPU, and ONNX could support both GPU and CPU. In our example, we want to have lowest cost setup, ONNX 
 would be a better option.
 
+2. For MacOS Intel, how do I install vLLM?
+
+    Would suggest to install VM (eg. Docker) for linux simulation.
+
