@@ -100,6 +100,10 @@ For more detailed information, you can refer to relevant sources or visit DeepSe
 - **Key Features**: Compact yet powerful, energy-efficient, and strong ethical guidelines .  
 - **Use Cases**: Creative writing, coding assistance, and content generation .  
 
+## Technologies
+
+* MCP https://mp.weixin.qq.com/s/i6tbSc5fspkV9qxFotZEKw
+
 ## Develoepr's Tool
 
 ### Cloud Service
