@@ -73,9 +73,11 @@ Product Demo:
 
 - [Qixing Au Pair AI SEO Result](https://www.youtube.com/watch?v=PhiMPZlI_WI)
 
-### TradinAI (2023.08, deprecated)
+### TradinAI, Custom Declaration Assistant (2023.08, deprecated)
 
-![Tradin AI](./assets/tradinai.png)
+![TradinAI, Custom Declaration Assistant](./assets/tradinai.png)
+
+[TradinAI, Custom Declaration Assistant Video Demo](https://www.youtube.com/watch?v=H0T7EyXSTt8&feature=youtu.be)
 
 TradinAI is a AI assistant that helps users to address their international custom trading questions and prepare their customs declarations.
 
