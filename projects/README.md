@@ -10,7 +10,7 @@ TSO is a AI assistant that helps companies to address their business needs, incl
 
 Related projects:
 
-- [Chat ERP](https://github.com/dotku/chaterp)
+- [Chat ERP](https://chaterp.dev.jytech.us/chat)
 - [AI Business](https://ai-business.jytech.us/)
 
 ### Job Matching (2018 - now)
@@ -19,11 +19,11 @@ Related projects:
 
 Job Matching is a platform that connect candidates and companies to find their matching partner.
 
-[📹 Job Matching Attendance AI Video Demo](./assets/jm-5068_1750828529.mp4)
-
 Related projects:
 
-- [TSO Smart Resume](https://github.com/tso-techedge/yeoso-hr)
+- [Job Matching](https://jobmatching.us)
+- [TSO Smart Resume](https://ai-resume.jobmatching.us/)
+- [📹 Job Matching Attendance AI Video Demo](./assets/jm-5068_1750828529.mp4)
 
 ### Restaurant AI (2023, deprecated)
 
