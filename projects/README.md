@@ -118,6 +118,8 @@ Similar projects:
 
 Product:
 
+![Huawei Xiaoyi Human Robot for Kids Education](./assets/hw-xiaoyi-robot.png)
+
 - [Huawei Xiaoyi Human Robot for Kids Education](https://www.youtube.com/watch?v=WkRzamF1bcM)
 
 ## Audio Labeling (2017)
