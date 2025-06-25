@@ -24,6 +24,7 @@ Related projects:
 - [Job Matching](https://jobmatching.us)
 - [TSO Smart Resume](https://ai-resume.jobmatching.us/)
 - [📹 Job Matching Attendance AI Video Demo](./assets/jm-5068_1750828529.mp4)
+- [AlumAI Advisor](https://alumadvisors.com/)
 
 ### Restaurant AI (2023, deprecated)
 
