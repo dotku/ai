@@ -1,4 +1,4 @@
-# Projects
+# projects
 
 ## Featured Projects
 
